@@ -76,6 +76,8 @@ wf + ws + wc = 1
 
 wf >= 0, ws >= 0, wc >= 0  
 
+This project demonstrates how optimization techniques can be applied to improve energy efficiency in autonomous robotic systems.
+
 ---
 
 
